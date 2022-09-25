@@ -4,7 +4,7 @@
 ## Description
 
 The goal is to give a simple understanding & overview of my way of analyzing raw data from particles-in-cell [Smilei](https://smileipic.github.io/Smilei/index.html) simulations.
-Even though Smilei has a built-in library for postprocessing the data, I prefer to extract raw data first because you can implement more advanced analysis with a script built by yourself.
+Even though Smilei has a built-in library for postprocessing the data, you may prefer to extract raw data first because you can implement more advanced analysis with a script built by yourself.
 
 
 
